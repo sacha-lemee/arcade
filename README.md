@@ -75,6 +75,6 @@ Contributions are welcome: read [CONTRIBUTING.md](CONTRIBUTING.md) and the [code
 
 ## License
 
-This project is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License** (CC BY-SA 4.0), see [LICENSE](LICENSE).
+This project is licensed under the **MIT License**, see [LICENSE](LICENSE).
 
-![ARCADE License : CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg)
+![ARCADE License : MIT](https://img.shields.io/badge/License-MIT-blue.svg)
